@@ -3,7 +3,7 @@
 
 ## Description
 
--The goal of this project was to streamline the code, and provide an updated search engine optimization.
+- The goal of this project was to streamline the code, and provide an updated search engine optimization.
 - This updated code solves the issue of having little traction in the search engine, aswell as optimizing the style sheet to be more effecient.
 - As a developer I've learned ways to implement tags and VS code tools like >, #, and . to make the style sheet and html sheet effecient, Non-redundant and Semantic.
 
